@@ -17,7 +17,7 @@ module.exports.config = {
 
 module.exports.languages = {
   "en": {
-    "moduleInfo": "🌌 ─── LUFFY 𝗕𝗢𝗧 ─── 🌌\n\n📜 𝗖𝗢𝗠𝗠𝗔𝗡𝗗: %1\n💡 𝗗𝗘𝗦𝗖: %2\n⚡ 𝗨𝗦𝗔𝗚𝗘: %3\n📂 𝗖𝗔𝗧𝗘𝗚𝗢𝗥𝗬: %4\n⏳ 𝗖𝗢𝗢𝗟𝗗𝗢𝗪𝗡: %5 sec\n👑 𝗣𝗘𝗥𝗠𝗜𝗦𝗦𝗜𝗢𝗡: %6\n\n🔖 𝗖𝗥𝗘𝗗𝗜𝗧𝗦: HENRY",
+    "moduleInfo": "🌌 ─── Aman 𝗕𝗢𝗧 ─── 🌌\n\n📜 𝗖𝗢𝗠𝗠𝗔𝗡𝗗: %1\n💡 𝗗𝗘𝗦𝗖: %2\n⚡ 𝗨𝗦𝗔𝗚𝗘: %3\n📂 𝗖𝗔𝗧𝗘𝗚𝗢𝗥𝗬: %4\n⏳ 𝗖𝗢𝗢𝗟𝗗𝗢𝗪𝗡: %5 sec\n👑 𝗣𝗘𝗥𝗠𝗜𝗦𝗦𝗜𝗢𝗡: %6\n\n🔖 𝗖𝗥𝗘𝗗𝗜𝗧𝗦: HENRY",
     "helpList": "📚 Total Commands: %1\n💡 Tip: Type \"%2help <commandName>\" to know more about any command!",
     "user": "User",
     "adminGroup": "Admin Group",
@@ -75,7 +75,7 @@ module.exports.run = function ({ api, event, args, getText }) {
     const page = parseInt(args[0]) || 1;
     const numberOfOnePage = 10;
     let i = 0;
-    let msg = `🌌 ─── LUFFY 𝗕𝗢𝗧 ─── 🌌\n\n📚 𝗔𝗟𝗟 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦:\n━━━━━━━━━━━━━━━\n`;
+    let msg = `🌌 ─── Aman 𝗕𝗢𝗧 ─── 🌌\n\n📚 𝗔𝗟𝗟 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦:\n━━━━━━━━━━━━━━━\n`;
 
     for (const [name] of commands) {
       arrayInfo.push(name);
