@@ -30,13 +30,13 @@ module.exports.handleEvent = async function ({ api, event, Users }) {
     `😏 ${name}, Ab Tujh Jaise Low lvl Log Mujhe Mntn karege 🥹😆 ?`,
     `👑 ${name}, Tu Sala Nalla Berojgar Chapri 🤐 Mujse bak bak karega Ab 🙃`,
     `😈 ${name}, Dehk Bhai Me Sadhi Sudha Ho😊 Jiyada Idhar Rply Nahi Kar sahkta Meri Bivi saht me he 😢 Samja Kar Yar🙃,
-    `🥵 ${name}, To mera Nam Mntn Karke Karke Konsa Awrd Lele Ga Bc 😆Majdoor ka Majdoor hi rahega 😆😅 `,🔊😁
-    `⚡ ${name}, Bot Ready Hai Apki Bezzati Krne Ke Liye!`,
-    `🤖 ${name}, Kya Baat Hai Bhai Bulaya Bulaya Kyu!`,
-    `😂 ${name}, Tu To Kahil Hai Yr Aj Tune Majduri Krke Bot Kaise Likh Diya!`,
-    `🤣 ${name}, Fir Se Roast Shuru Karu?`,
-    `😆 ${name}, Gu Insan Hai Ya Gadhe Ko Gan*** Hai Jub Dekho Tub Bak Bak Krta Hai?`,
-    `😜 ${name}, Bot Aaya Hai Thodi Idhar Udhar Ki Sunane!`,
+    `🥵 ${name}, To mera Nam Mntn Kar Karke Konsa Awrd Lele Ga Bc 😆Majdoor ka Majdoor hi rahega 😆😅 `,🔊😁
+    `⚡ ${name}, Ha Bolo Kiya masla he Tumhara Jo Roj Roj Mere Nam Se Kalpte ho😊🔥!`,
+    `🤖 ${name}, Kya Baat Hai Bhai Q Pareshan Ho 🤔 !`,
+    `😂 ${name}, Tu Subha Se Mera Dimak Khane Me Laga He🤬 bc!`,
+    `🤣 ${name}, Fir Se Tujhe Pelna Shuru Karu?`,😊
+    `😆 ${name}, Chotiya Insan Ho Kiya Tum Jo Subha Sham Bot Bot Chilate ho🌛😆?`,
+    `😜 ${name}, Abe Havabaji Band Kar Sidha Mudde pe Aa 🙃!`,
     `😆 ${name}, GC Ka Masti Machine Hu Main!`,
     `🤣 ${name}, Bot = Entertainment Ki Dukan!`,
     `😏 ${name}, Ab Kya Karu? Chhedu Kise?`,
