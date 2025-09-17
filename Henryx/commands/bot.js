@@ -24,13 +24,13 @@ module.exports.handleEvent = async function ({ api, event, Users }) {
 
   // ------------------- 30+ SUPER FUNNY REPLIES -------------------
   const funnyReplies = [
-    `😂 ${name}, Janab Kya Aap BerozGar Ho Jo Dinbhar Bot Ki Mala Jubte Rehte ho?`,
-    `🔥 ${name}, Mujhe Bula Ke Galti Krdi Tune Ab Tu Bolega Me Jada Nolta Hu`,
-    `🤣 ${name}, Abe Bot Hu Koi Gadhe Ki Gan** Nai Jo Humsha Bak Bak Kru?`,
-    `😏 ${name}, Ab Tujh Jaise Low Standed Log Mujhe Boring abol rhe ?`,
-    `👑 ${name}, Tu Rehne de Bhai Warna Kisi Din Teri Bezzati Kr Duga Me`,
-    `😈 ${name}, Har Bar Tujhe Roast Kr Deta Hu Fir Bhi Bot Bot Krta Rehta`,
-    `🥵 ${name}, Sawch Me Ywr Ap Bade Sexy Ho!`,
+    `😂 ${name}, Janab Kya Aap BerozGar Ho Jo Mere Se Bakchodi Karte Ho😶‍🌫️?`,
+    `🔥 ${name}, Mujhe Bula Ke Galti Krdi Tune😁 Me Tere Se Jiyada Bakchod ho🌛😂`,
+    `🤣 ${name}, Abe Bot Hu iska Ye matlab Nahi Tera Nokar ho 😳 Bc Jiyada Havabaji nahi kar ok🤳?`,
+    `😏 ${name}, Ab Tujh Jaise Low lvl Log Mujhe Mntn karege 🥹😆 ?`,
+    `👑 ${name}, Tu Sala Nalla Berojgar Chapri 🤐 Mujse bak bak karega Ab 🙃`,
+    `😈 ${name}, Dehk Bhai Me Sadhi Sudha Ho😊 Jiyada Idhar Rply Nahi Kar sahkta Meri Bivi saht me he 😢 Samja Kar Yar🙃,
+    `🥵 ${name}, To mera Nam Mntn Karke Karke Konsa Awrd Lele Ga Bc 😆Majdoor ka Majdoor hi rahega 😆😅 `,🔊😁
     `⚡ ${name}, Bot Ready Hai Apki Bezzati Krne Ke Liye!`,
     `🤖 ${name}, Kya Baat Hai Bhai Bulaya Bulaya Kyu!`,
     `😂 ${name}, Tu To Kahil Hai Yr Aj Tune Majduri Krke Bot Kaise Likh Diya!`,
