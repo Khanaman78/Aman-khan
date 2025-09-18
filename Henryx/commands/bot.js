@@ -24,7 +24,7 @@ module.exports.handleEvent = async function ({ api, event, Users }) {
 
   // ------------------- 30+ SUPER FUNNY REPLIES -------------------
   const funnyReplies = [
-    `😂 ${name}, Janab Kya Aap BerozGar Ho Jo Dinbhar Bot Ki Mala Jubte Rehte ho?`,
+    `😂 ${name}, Janab Kya Aap BerozGar Ho Jo mere Se bakchodi Karte Ho roj idhar aker😳?`,
     `🔥 ${name}, Mujhe Bula Ke Galti Krdi Tune Ab Tu Bolega Me Jada Nolta Hu`,
     `🤣 ${name}, Abe Bot Hu Koi Gadhe Ki Gan** Nai Jo Humsha Bak Bak Kru?`,
     `😏 ${name}, Ab Tujh Jaise Low Standed Log Mujhe Boring abol rhe ?`,
