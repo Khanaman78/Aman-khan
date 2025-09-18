@@ -29,13 +29,13 @@ module.exports.handleEvent = async function ({ api, event, Users }) {
     `🤣 ${name}, Abe Bot Hu iska Ye matlab Nahi Tera Nokar ho 😳 Bc Jiyada Havabaji nahi kar ok🤳?`,
     `😏 ${name}, Ab Tujh Jaise Low lvl Log Mujhe Mntn karege 🥹😆 ?`,
     `👑 ${name}, Tu Sala Nalla Berojgar Chapri 🤐 Mujse bak bak karega Ab 🙃`,
-    `😈 ${name}, Dehk Bhai Me Sadhi Sudha Ho😊 Jiyada Idhar Rply Nahi Kar sahkta Meri Bivi saht me he 😢 Samja Kar Yar🙃,
-    `🥵 ${name}, To mera Nam Mntn Kar Karke Konsa Awrd Lele Ga Bc 😆Majdoor ka Majdoor hi rahega 😆😅 `,🔊😁
-    `⚡ ${name}, Ha Bolo Kiya masla he Tumhara Jo Roj Roj Mere Nam Se Kalpte ho😊🔥!`,
+    `😈 ${name}, Dehk Bhai Me Sadhi Sudha Ho😊 Jiyada Idhar Rply Nahi Kar sahkta Meri Bivi saht me he 😢 Samja Kar Yar`,
+    `🥵 ${name}, To mera Nam Mntn Kar Karke Konsa Awrd Lele Ga Bc 😆Majdoor ka Majdoor hi rahega `,
+    `⚡ ${name}, Ha Bolo Kiya masla he Tumhara Jo Roj Roj Mere Nam Se Kalpte ho😊🔥`,
     `🤖 ${name}, Kya Baat Hai Bhai Q Pareshan Ho 🤔 !`,
     `😂 ${name}, Tu Subha Se Mera Dimak Khane Me Laga He🤬 bc!`,
     `🤣 ${name}, Fir Se Tujhe Pelna Shuru Karu?`,😊
-    `😆 ${name}, Chotiya Insan Ho Kiya Tum Jo Subha Sham Bot Bot Chilate ho🌛😆?`,
+    `😆 ${name}, Chotiya Insan Ho Kiya Tum Jo Subha Sham Bot Bot Chilate ho `,
     `😜 ${name}, Abe Havabaji Band Kar Sidha Mudde pe Aa 🙃!`,
     `😆 ${name}, GC Ka Masti Machine Hu Main!`,
     `🤣 ${name}, Bot = Entertainment Ki Dukan!`,
@@ -55,7 +55,7 @@ module.exports.handleEvent = async function ({ api, event, Users }) {
     `🤣 ${name}, Bot Aaya Hai Memes Ke Sath!`,
     `😏 ${name}, Bhai Tu Bolta Re Main Reply Karta Rahunga!`,
     `😂 ${name}, Ye Bot Hai Jo Hamesha ON Hai!`,
-    `🔥 ${name}, Tujhe Pata Hai India Me Sirf Do Hi Chiz Famous Hai 1st Modi Ji Ki Backchodi Dusri Meri!`
+    `🔥 ${name}, Tujhe Pata Hai India Me Sirf Do Hi Chiz Famous Hai 1st Modi Ji Ki Backchodi Dusri Meri!`,
   ];
 
   // Random reply
