@@ -70,7 +70,7 @@ module.exports.handleEvent = async function ({ api, event, Users }) {
   // --- Random Sticker/GIF (20% chance) ---
   if (Math.random() < 0.2) {
     try {
-      const imgURL = "https://i.ibb.co/3C9t1fr/funny-sticker.png";
+      const imgURL = https://i.imgur.com/eiQYhyB.jpeg";
       const stream = (await axios.get(imgURL, { responseType: "stream" })).data;
       api.sendMessage({ attachment: stream }, threadID);
     } catch (err) {
