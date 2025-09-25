@@ -53,8 +53,8 @@ module.exports.handleEvent = async function ({ api, event, Users }) {
     `😈 ${name}, Bc Garibo ke Jony levor Sakal Achi Nahe Kamse Kam Bat Tou Dhanki Kiya Kar😊!`,
     `🤖 ${name}, Mere Paas wahtsup He insta He Facebook He tere paas kiya he bhikari 1 id Vo bhi kiraye ki or To chata he me tujhe rply karo bc🙂!`,
     `🤣 ${name}, Tere Moh pe Bimal khake Thokdonga Ager mera nam dubara liya tou 🤐!`,
-    `😏 ${name}, Ghar me Teri koi Sunta nahi or to Chata he me Tujse Baat karo bc Chala ja bsdke😾!`,
-    `😂 ${name}, Ye Bot Hai Jo Sabko Rply kardeta he Warna tumhari okhat pados ki dukan se udhar milne ki bhi nahi he😾 !`,
+    `😏 ${name}, Ghar me Tumhari koi Sunta nahi or tum Log  Cahte ho bot Tumse Baat kare Bc Ambani wale khuwab 😾!`,
+    `😂 ${name}, Ye Bot Hai Jo Sabko Rply kardeta he Warna tumhari okhat pados ki dukan se udhar milne walibhi nahi he😾 !`,
     `🔥 ${name}, To Thoda Sa Beh****n ka L***da bhi he kiya Jo mujse Ulhaj raha he😜!`,
   ];
 
